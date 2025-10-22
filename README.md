@@ -43,6 +43,11 @@ This portfolio demonstrates how financial modeling and BI tools can drive strate
 3. Explore visuals in `/visuals`
 4. Review commentary and presentation decks in `/docs`
 
+## 🚀 About Me
+
+I’m **Varsha Pathinti**, a Financial Analyst passionate about FP&A, business insights, and data-driven decision-making.  
+I enjoy building dashboards, automating reporting, and uncovering trends that drive performance improvement.
+
 ## 📬 Contact
 
 If you're hiring for strategic FP&A roles or want to collaborate on financial analytics, feel free to connect:
