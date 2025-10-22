@@ -16,13 +16,12 @@ This portfolio showcases my financial modeling and business intelligence skills 
 
 ## 🗂️ Repository Structure
 
-| Folder/File        | Description |
-|--------------------|-------------|
-| `/data`            | Synthetic GL dataset with mapped COA |
-| `/models`          | Excel workbooks and Power BI `.pbix` files |
-| `/visuals`         | Screenshots of dashboards and charts |
-| `/docs`            | Commentary scripts and stakeholder presentation decks |
-| `README.md`        | Project overview and documentation |
+| File Name                      | Description                                                  |
+|--------------------------------|--------------------------------------------------------------|
+| `FPA Excel File.xlsx`          | Financial model workbook with reconciled statements and KPIs |
+| `P&L and BS Dashboard.pbix`    | Power BI dashboard with profitability and balance sheet views |
+| `Source Data_Financials.xlsx`  | Synthetic General Ledger and mapped Chart of Accounts        |
+| `README.md`                    | Project overview and documentation                           |
 
 ## 🔍 Key Features
 
