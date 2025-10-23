@@ -35,13 +35,6 @@ This portfolio showcases my financial modeling and business intelligence skills 
 
 This portfolio demonstrates how financial modeling and BI tools can drive strategic insights. It’s designed for senior FP&A roles where business partnership and decision support are key.
 
-## 📎 How to Use
-
-1. Clone the repo:  
-   `git clone https://github.com/yourusername/fpa-portfolio.git`
-2. Open the Excel and Power BI files in `/models`
-3. Explore visuals in `/visuals`
-4. Review commentary and presentation decks in `/docs`
 
 ## 🚀 About Me
 
