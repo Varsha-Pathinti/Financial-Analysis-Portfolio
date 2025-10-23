@@ -1,4 +1,4 @@
-# 📊 FP&A Portfolio: Financial Modeling & BI Dashboards (Synthetic Dataset)
+# 📊 FP&A Portfolio: Financial Modeling & BI Dashboards
 This portfolio showcases my financial modeling and business intelligence skills using a synthetic dataset that simulates multi-year financial activity. The project includes dynamic dashboards, reconciled financial statements, and strategic insights — all built in Excel and Power BI.
 
 **🧠 Project Overview**
