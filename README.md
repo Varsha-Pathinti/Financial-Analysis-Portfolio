@@ -12,7 +12,8 @@ This portfolio showcases my financial modeling and business intelligence skills 
   - Forecasting and variance commentary
   - Selector-driven KPI reporting
 
-⚠️ Note: This dataset is entirely synthetic and not tied to any specific industry. It loosely resembles a product-based business but is designed to demonstrate technical and analytical capabilities rather than industry-specific modeling.
+<img width="611" height="343" alt="image" src="https://github.com/user-attachments/assets/49101bdd-b65e-4731-8e11-19328418fa6e" />
+
 
 ## 🗂️ Repository Structure
 
