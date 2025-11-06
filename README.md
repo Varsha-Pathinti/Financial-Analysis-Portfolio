@@ -28,7 +28,6 @@ This portfolio showcases my financial modeling and business intelligence skills 
 
 - **Dynamic KPI Engine**: Selector-driven metrics by product, region, and year
 - **Reconciled Financials**: Linked Income Statement, Balance Sheet, and Cash Flow
-- **Waterfall Charts**: Year-over-year profitability and variance analysis
 - **Capital Structure Dashboard**: Debt/equity mix, leverage ratios, and valuation metrics
 - **Forecasting Models**: Scenario-based projections with commentary
 
