@@ -19,7 +19,7 @@ This portfolio showcases my financial modeling and business intelligence skills 
 
 | File Name                      | Description                                                  |
 |--------------------------------|--------------------------------------------------------------|
-| `FPA Excel File.xlsx`          | Financial model workbook with reconciled statements and KPIs |
+| `FPA Excel File_Updated.xlsx`  | Financial model workbook with reconciled statements and KPIs |
 | `P&L and BS Dashboard.pbix`    | Power BI dashboard with profitability and balance sheet views |
 | `Source Data_Financials.xlsx`  | Synthetic General Ledger and mapped Chart of Accounts        |
 | `README.md`                    | Project overview and documentation                           |
